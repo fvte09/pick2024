@@ -25,3 +25,4 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 19. [Valteci Oliveira](https://www.linkedin.com/in/valtecioliveira/)
 20. [Erick Davi M. Pessanha](https://www.linkedin.com/in/erick-davi-morgade-pessanha-53711120/)
 21. [Michael de Souza Marcos (Mike)](https://www.linkedin.com/in/michaelsmarcos/)
+22. [Fabio Veramonte](https://www.linkedin.com/in/fabio-veramonte/)
